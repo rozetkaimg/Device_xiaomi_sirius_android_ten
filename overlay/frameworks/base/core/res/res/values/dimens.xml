@@ -24,6 +24,6 @@
     <dimen name="status_bar_height_landscape">25dp</dimen>
     <!-- Height of notification icons in the status bar -->
     <dimen name="status_bar_icon_size">16dip</dimen>
-    <dimen name="rounded_corner_radius">44px</dimen>
+    <dimen name="rounded_corner_radius">22px</dimen>
 
 </resources>
